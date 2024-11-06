@@ -2,8 +2,9 @@
 
 print("hello world")
 
+
 def welcome():
-    print("hello welcome to github actions");
+    print("hello welcome to github actions")
 
 # Calling the function
 welcome()
